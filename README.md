@@ -1,4 +1,4 @@
-# Urihi-Mobile-Game
+# Urihi-Unity-MobileGame-2D
 
 Olá!, eu me chamo Bruno Tiago, e neste projeto fiquei responsável pela Programação e Level Designer.
 
