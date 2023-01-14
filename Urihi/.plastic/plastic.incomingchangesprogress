@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      27
+    ],
+    "SourceCsetId": 28,
+    "DestinationCsetId": 27,
+    "FileConflicts": [
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 141,
+        "ParentItemId": 127,
+        "BaseRevId": 411,
+        "SourceRevId": 846,
+        "DestinationRevId": 411
+      },
+      {
+        "Path": "/Assets/Scenes/Principal.unity",
+        "ItemId": 490,
+        "ParentItemId": 252,
+        "BaseRevId": 708,
+        "SourceRevId": 838,
+        "DestinationRevId": 708
+      }
+    ]
+  }
+]
